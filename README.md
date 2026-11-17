@@ -45,6 +45,24 @@ Topics include:
 
 Each project will include practical implementation, result verification, and documentation.
 
+## Technical Skills
+
+### Spreadsheet Management
+- Excel Tables
+- Structured References
+- SUMIF and SUMIFS
+- PivotTables
+
+### Data Analysis
+- Data summarization
+- Data validation
+- Data quality checks
+
+### Documentation
+- Technical documentation
+- Process documentation
+- Result verification
+
 
 ## Data Privacy
 
