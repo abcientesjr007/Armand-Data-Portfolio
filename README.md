@@ -33,6 +33,19 @@ My projects follow a practical workflow:
 4. Verify the results.
 5. Document the process.
 
+## Current Learning Focus
+
+My current focus is developing practical Excel skills through hands-on exercises.
+
+Topics include:
+- Excel Tables and Structured References
+- SUMIF and SUMIFS
+- PivotTables
+- Data validation and quality control
+
+Each project will include practical implementation, result verification, and documentation.
+
+
 ## Data Privacy
 
 All publicly shared datasets and examples will use synthetic or appropriately anonymized data. No confidential government, employee, student, or financial records will be published.
